@@ -1,7 +1,6 @@
 
 import Header from './components/Header'
 import Home from './components/Intro'
-import Services from './components/Services'
 import AboutMe from './components/AboutMe'
 import Work from './components/Work'
 import Footer from './components/Footer'
@@ -12,9 +11,8 @@ function App() {
     <div className="App">
       <Header />
       <Home />
-      <Services />
-      <AboutMe />
       <Work />
+      <AboutMe />
       <Footer />
     </div>
   );
