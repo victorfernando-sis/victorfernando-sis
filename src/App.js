@@ -1,4 +1,10 @@
 
+import {
+  createBrowserRouter,
+  RouterProvider
+} from 'react-router-dom'
+import ErrorPage from './error-page';
+import PortfolioItem from './components/PortfolioItem';
 import Header from './components/Header'
 import Home from './components/Intro'
 import AboutMe from './components/AboutMe'
@@ -7,12 +13,25 @@ import Footer from './components/Footer'
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <Header />
+  const router = createBrowserRouter([{
+    path: "/",
+    element: <>
       <Home />
       <Work />
       <AboutMe />
+    </>,
+    errorElement: <ErrorPage />,
+  },
+  {
+    path: "/work/:projectId",
+    element: <PortfolioItem />
+  }])
+
+  return (
+    <div className={`App`}>
+      <Header />
+      <RouterProvider router={router} />
+
       <Footer />
     </div>
   );

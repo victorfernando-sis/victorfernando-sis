@@ -1,15 +1,14 @@
 import React, { useState } from "react";
-import { Link, Switch, Route } from "react-router-dom";
 import { data } from "../portfolioData"
 
 export default function Work() {
-    const [projects, setProjects] = useState([...data.projects])
+    const [projects] = useState([...data.projects])
 
 
     const projectsHtml = projects.map(item => {
-        return <Link to="/"><a key={item.id} href="portfolio-item.html" className="portfolio__item">
-            <img src={item.img} alt="" className="portfolio__img" />
-        </a></Link>
+        return <a key={item.id} href={`work/${item.id}`} className="portfolio__item">
+            <img src={item.coverImg} alt="" className="portfolio__img" />
+        </a>
     })
 
     return (
