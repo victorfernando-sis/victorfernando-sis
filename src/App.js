@@ -23,7 +23,7 @@ function App() {
     errorElement: <ErrorPage />,
   },
   {
-    path: "/work/:projectId",
+    path: "/victorfernando-sis/work/:projectId",
     element: <PortfolioItem />
   }])
 
