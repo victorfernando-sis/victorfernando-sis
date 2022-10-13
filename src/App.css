@@ -11,6 +11,7 @@
     --ff-secondary: 'Source Code Pro', monospace;
 
     --fw-reg: 300;
+    --fw-mid: 700;
     --fw-bold: 900;
 
     --clr-light: #fff;
@@ -69,6 +70,7 @@ strong {
     outline: 3px solid var(--clr-accent);
     outline-offset: 3px;
 }
+
 
 /* Buttons */
 
@@ -143,6 +145,16 @@ h3 {
     margin-bottom: 2em;
 }
 
+.section__link--intro{
+    font-family: var(--ff-secondary);
+    margin-top: 0.5em;
+    text-decoration: none;
+    color: var(--clr-dark);
+}
+.section__link--intro:hover,
+.section__link--intro:focus{
+    color: var(--clr-accent);
+}
 /* header */
 
 
@@ -491,4 +503,18 @@ header {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+}
+.portfolio-item-individual h3 {
+    margin-bottom: .5em;
+}
+.project_links--individual{
+    align-content: center;
+    margin: 0 1.5em 0 0 ;
+    text-decoration: none;
+    font-weight: var(--fw-bold);
+    font-family: var(--ff-primary);
+    color: var(--clr-dark);
+}
+.project_links--individual:hover{
+    color: var(--clr-accent);
 }
