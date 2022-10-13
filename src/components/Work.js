@@ -3,11 +3,11 @@ import { data } from "../portfolioData"
 
 export default function Work() {
     const [projects] = useState([...data.projects])
-
+    console.log(data)
 
     const projectsHtml = projects.map(item => {
         return <a key={item.id} href={`work/${item.id}`} className="portfolio__item">
-            <img src={item.coverImg} alt="" className="portfolio__img" />
+            <img src={item.coverImg} alt="Project Cover" className="portfolio__img" />
         </a>
     })
 
