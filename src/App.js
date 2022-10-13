@@ -24,7 +24,7 @@ function App() {
     errorElement: <ErrorPage />,
   },
   {
-    path: process.env.PUBLIC_URL + "/work/:projectId",
+    path:"/victorfernando-sis/work/:projectId",
     element: <PortfolioItem />
   }])
 
