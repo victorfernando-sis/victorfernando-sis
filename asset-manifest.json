@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/victorfernando-sis/static/css/main.33d72c1f.css",
-    "main.js": "/victorfernando-sis/static/js/main.a3bc9bec.js",
+    "main.js": "/victorfernando-sis/static/js/main.38e60639.js",
     "static/js/787.1ed0c42c.chunk.js": "/victorfernando-sis/static/js/787.1ed0c42c.chunk.js",
     "static/media/service-bg.png": "/victorfernando-sis/static/media/service-bg.0557cccad88353593d33.png",
     "static/media/profile-pic.png": "/victorfernando-sis/static/media/profile-pic.e03a8bc5b676ae3c832a.png",
@@ -9,11 +9,11 @@
     "static/media/logo.png": "/victorfernando-sis/static/media/logo.4fc100a1f73b9319ec25.png",
     "index.html": "/victorfernando-sis/index.html",
     "main.33d72c1f.css.map": "/victorfernando-sis/static/css/main.33d72c1f.css.map",
-    "main.a3bc9bec.js.map": "/victorfernando-sis/static/js/main.a3bc9bec.js.map",
+    "main.38e60639.js.map": "/victorfernando-sis/static/js/main.38e60639.js.map",
     "787.1ed0c42c.chunk.js.map": "/victorfernando-sis/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33d72c1f.css",
-    "static/js/main.a3bc9bec.js"
+    "static/js/main.38e60639.js"
   ]
 }
