@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { FaEye, FaPlay } from 'react-icons/fa';
 import { useParams } from "react-router-dom"
 import { data } from "../portfolioData"
 
@@ -16,7 +15,7 @@ export default function PortfolioItem() {
         <div>
             <section className="intro">
                 <h1 className="section__title section__title--intro">
-                    {project.name} <strong>{project.name}</strong>
+                    {project.name}
                 </h1>
                 <p className="section__subtitle section__subtitle--intro">{project.subtitle}</p>
                 <img src={project.coverImg} alt="Cover" className="intro__img" />
