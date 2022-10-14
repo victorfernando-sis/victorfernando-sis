@@ -14,7 +14,7 @@ import './App.css';
 
 function App() {
   const router = createBrowserRouter([{
-    path: '/victorfernando-sis',
+    path: '/',
     // path: process.env.PUBLIC_URL + '/',
     element: <>
       <Home />
@@ -24,7 +24,7 @@ function App() {
     errorElement: <ErrorPage />,
   },
   {
-    path:"/victorfernando-sis/:projectId",
+    path:"/:projectId",
     element: <PortfolioItem />
   }])
 

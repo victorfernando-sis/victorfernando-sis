@@ -6,7 +6,7 @@ export default function Work() {
     const [projects] = useState([...data.projects])
     console.log(process.env.PUBLIC_URL)
     const projectsHtml = projects.map(item => {
-        return <Link key={item.id} to={`${item.id}`} target="_blank" className="portfolio__item">
+        return <Link key={item.id} to={`${item.id}`} className="portfolio__item">
             <img src={item.coverImg} alt="Project Cover" className="portfolio__img" />
         </Link>
     })
