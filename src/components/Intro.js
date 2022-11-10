@@ -7,9 +7,9 @@ export default function HomePage() {
             <h1 className="section__title section__title--intro">
                 Hi, I am <strong>Victor Fernando</strong>
             </h1>
-            <p className="section__subtitle section__subtitle--intro">Frontend Dev</p>
+            <p className="section__subtitle section__subtitle--intro">Frontend Developer</p>
             <img src={profilePic} alt="Victor Fernando smiling" className="intro__img"/>
-            <a href="https://drive.google.com/file/d/1G8CRDXgYefPi5ofwYpA4sEeR6DBqBiU0/view" target="_blank" rel="noreferrer" className="section__subtitle section__link--intro">📄 Download CV</a>
+            <a download href="https://drive.google.com/file/d/1G8CRDXgYefPi5ofwYpA4sEeR6DBqBiU0/view" target="_blank" rel="noreferrer" className="section__subtitle section__link--intro">📄 Download CV</a>
         </section>
     )
 }
