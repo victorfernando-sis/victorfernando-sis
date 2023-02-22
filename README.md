@@ -48,20 +48,20 @@
 
 #### 🧿 Gathered and Empowered
 
-<a href="https://github.com/sarahbouayad/gatheredandempowered"><img src="https://user-images.githubusercontent.com/112355619/212996138-57cd01e6-d314-48f9-b582-147e71d35863.gif" width=50% height=50%>
+<a href="#"><img src="https://user-images.githubusercontent.com/112355619/212996138-57cd01e6-d314-48f9-b582-147e71d35863.gif" width=50% height=50%>
 
 
 #### 📱 Futuristic Phone Collection E-Commerce Website
 
-<a href="https://github.com/sarahbouayad/fullstackproject3.git"><img src="https://user-images.githubusercontent.com/112355619/201748098-6e577ea3-2aa9-491a-9a70-fb940054b685.gif" width=50% height=50%>
+<a href="#"><img src="https://user-images.githubusercontent.com/112355619/201748098-6e577ea3-2aa9-491a-9a70-fb940054b685.gif" width=50% height=50%>
 
 #### 📝 Job Board: Create Your Own Hitlist 
   
-<a href="https://github.com/sarahbouayad/jobboard.git"><img src="https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif" width=50% height=50%>
+<a href="#"><img src="https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif" width=50% height=50%>
 
 #### 🍕 Pizza Express: Order A Pizza Now!  
   
-<a href="https://github.com/sarahbouayad/foodordering.git"><img src="https://user-images.githubusercontent.com/112355619/202934807-0d4b387b-6b00-4669-8990-52e15a884572.gif" width=50% height=50%>
+<a href="#"><img src="https://user-images.githubusercontent.com/112355619/202934807-0d4b387b-6b00-4669-8990-52e15a884572.gif" width=50% height=50%>
 
 ### Current Reads:
 
