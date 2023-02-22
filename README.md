@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/112355619/197630165-27740a10-c28c-4c35-9d79-3d139cd536e2.png)
+![github-header-image](https://github.com/victorfernando-sis/victorfernando-sis/blob/491e6b88462a157dd4009698b92554d554e60600/github-header-image.png)
 
 
 ### Hi there 👋, my name is Victor Fernando!
