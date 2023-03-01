@@ -46,9 +46,9 @@
 
 ## Project Highlights
 
-#### 🧿 Gathered and Empowered
+#### 🧿 Vanlife - Ecommerce
 
-<a href="#"><img src="https://user-images.githubusercontent.com/112355619/212996138-57cd01e6-d314-48f9-b582-147e71d35863.gif" width=50% height=50%>
+<a href="https://vanlife-app.netlify.app/"><img src="https://raw.githubusercontent.com/victorfernando-sis/vanlife/main/src/assets/vanlife-image.jpg" width=50% height=50%>
 
 
 #### 📱 Futuristic Phone Collection E-Commerce Website
