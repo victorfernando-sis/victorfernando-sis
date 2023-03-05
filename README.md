@@ -46,7 +46,7 @@
 
 ## Project Highlights
 
-#### 🧿 Vanlife - Ecommerce
+#### 🧿 Vanlife - Rental Website
 
 <a href="https://vanlife-app.netlify.app/"><img src="https://raw.githubusercontent.com/victorfernando-sis/vanlife/main/src/assets/vanlife-image.jpg" width=50% height=50%>
 
